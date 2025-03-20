@@ -4,13 +4,13 @@ Binary Search Tree
 
 İlk eleman 7 olduğu için root 7'dir.
 
-         7
-        / \
-       5   8
-      / \    \
-     1   6    9
-    /     \
+        7
+       / \
+      5   8
+     / \    \
+    1   6    9
 
-0 3
+/ \
+ 0 3
 / \
  2 4
